@@ -1,4 +1,4 @@
-# leedcode-solutions
+# leetcode-solutions
 from typing  import List
 
 class Solution:
